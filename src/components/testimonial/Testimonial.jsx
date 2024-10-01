@@ -1,6 +1,6 @@
 import React from 'react';
 import img1 from "../../assets/shivam.jpeg";  
-import img2 from "../../assets/sachin.jpeg";
+import img2 from "../../assets/Sachin.jpeg";
 import img3 from '../../assets/nikhil.jpeg';
 
 const Testimonial = () => {
